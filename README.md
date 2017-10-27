@@ -89,4 +89,4 @@ python -m unittest discover tests
 
 ## Credits
 
-The credits for this code go to [https://github.com/brilee/MuGo](brilee). I've merely created a wrapper to get people started. 
+The credits for this code go to [brilee](https://github.com/brilee/MuGo). I've merely created a wrapper to get people started. 
