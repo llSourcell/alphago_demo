@@ -86,3 +86,7 @@ Running unit tests
 ```python
 python -m unittest discover tests
 ```
+
+## Credits
+
+The credits for this code go to [https://github.com/brilee/MuGo](brilee). I've merely created a wrapper to get people started. 
